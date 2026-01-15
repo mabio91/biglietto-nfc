@@ -1,1 +1,11 @@
-
+BEGIN:VCARD
+VERSION:3.0
+N:Ciaccheri Pirelli;Fabio Massimo;;;
+FN:Fabio Massimo Ciaccheri Pirelli
+PHOTO;VALUE=URI:https://drive.google.com/uc?id=1cM6KuezJdXUGTP2ydh7qcmMuq877ja7d
+EMAIL;TYPE=INTERNET:fmciaccheri@gmail.com
+TEL;TYPE=CELL:+393664485710
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/fmciaccheripirelli
+URL;TYPE=Instagram:https://www.instagram.com/mabiogram
+BDAY:19910912
+END:VCARD
